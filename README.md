@@ -1,16 +1,20 @@
-## Hi there 👋
+### Bastián Andrade — Full Stack & Mobile Developer
 
-<!--
-**Reas0nt/Reas0nt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Chillán, Chile · [LinkedIn](https://linkedin.com/in/bandradez/)
 
-Here are some ideas to get you started:
+Construyendo un motor SaaS multi-tenant para ferreterías (Next.js, TypeScript, Prisma, PostgreSQL). También coordino proyectos con Arduino/Python en el Laboratorio de Inteligencia Aplicada (Santo Tomás).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,nodejs,prisma,postgres,mysql,linux,docker,wordpress)
+
+**Explorando**
+
+![](https://skillicons.dev/icons?i=cloudflare)
+
+**Proyectos**
+- 🕹️ [SpaceInvaderHandControl](https://github.com/Reas0nt/SpaceInvaderHandControl) — control por gestos con Python, feria Santo Tomás
+- 🦾 [K.I.N.E.C.T.I.C](https://github.com/Reas0nt/K.I.N.E.C.T.I.C) — rehabilitación con visión artificial
+- 💼 [Portafolio-BBAZ](https://github.com/Reas0nt/Portafolio-BBAZ) — portafolio personal
+
+![](https://github-readme-stats.vercel.app/api?username=Reas0nt&show_icons=true&theme=default&hide_border=true)
